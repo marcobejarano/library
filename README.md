@@ -1,0 +1,1 @@
+The present project involves creating a simple html form to add books and show them in a table with the option to change the read status and delete the selected one.
