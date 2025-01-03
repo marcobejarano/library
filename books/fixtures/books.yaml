@@ -1,0 +1,20 @@
+- model: books.book
+  fields:
+    title: "Django for Beginners"
+    subtitle: "Build Websites with Python and Django"
+    author: "William S. Vincent"
+    isbn: "978173546720"
+
+- model: books.book
+  fields:
+    title: "Django for APIs"
+    subtitle: "Build web APIs with Python and Django"
+    author: "William S. Vincent"
+    isbn: "978173546722"
+
+- model: books.book
+  fields:
+    title: "Django for Professionals"
+    subtitle: "Production websites with Python & Django"
+    author: "William S. Vincent"
+    isbn: "978173546723"
